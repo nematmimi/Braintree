@@ -1,0 +1,19 @@
+{
+    "gateways": [
+        {
+            "merchant_id": "t6kv4ghv3gr8gt43",
+            "public_key": "9rx4r73n4z99cxqf",
+            "private_key": "5f41ebe2ba73f0feb461e0849747b267"
+        },
+        {
+            "merchant_id": "wcp3sw7wk6j5vcrh",
+            "public_key": "d6vwxz7brd7fcp4h",
+            "private_key": "bd3b86dcb875be893a8699e74dd2f304"
+        },
+        {
+            "merchant_id": "b5rnn4n256639mcz",
+            "public_key": "jtmkw79xghvrqcw2",
+            "private_key": "3a29e45f8e377fcb1493317a1e669df6"
+        }
+    ]
+}

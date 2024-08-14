@@ -1,0 +1,30 @@
+{
+    "first_name": "Nemat",
+    "last_name": "Mimi",
+    "company": "Braintree",
+    "email": "nemat@example.com",
+    "phone": "312.555.1234",
+    "fax": "614.555.5678",
+    "website": "www.example.com",
+    "credit_card": {
+        "cardholder_name": "Jen Smith",
+        "number": "4242424242424242",
+        "expiration_month": "12",
+        "expiration_year": "2026",
+        "cvv": "123",
+        "billing_address": {
+            "first_name": "Jen",
+            "last_name": "Smith",
+            "company": "Braintree",
+            "street_address": "123 Main St",
+            "extended_address": "Apt 4",
+            "locality": "Chicago",
+            "region": "IL",
+            "postal_code": "60622",
+            "country_code_alpha2": "US"
+        },
+        "options": {
+            "verify_card": true
+        }
+    }
+}
